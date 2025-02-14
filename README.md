@@ -1,0 +1,1 @@
+This FHSS transmitter and reciever code is able to transmit and recieve 2-FSK, 4-FSK, and 8-FSK signals effectively. The decoding and encoding process is also explicitely shown in the results for managing possible errors easily. 
